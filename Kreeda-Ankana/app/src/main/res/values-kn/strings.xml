@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App -->
+    <string name="app_name">ಕ್ರೀಡಾ-ಅಂಕಣ</string>
+    <string name="tagline">ನಿಮ್ಮ ಸ್ಮಾರ್ಟ್ ಹಳ್ಳಿ ಕ್ರೀಡಾ ಕೇಂದ್ರ 🏟️</string>
+
+    <!-- Bottom Navigation Tabs -->
+    <string name="tab_home">ಮುಖಪುಟ</string>
+    <string name="tab_calendar">ಬುಕಿಂಗ್</string>
+    <string name="tab_challenges">ಸವಾಲುಗಳು</string>
+    <string name="tab_score_wall">ಸ್ಕೋರ್</string>
+    <string name="tab_ai_assistant">AI ಚಾಟ್</string>
+
+    <!-- Home Screen -->
+    <string name="todays_overview">ಇಂದಿನ ಸಾರಾಂಶ</string>
+    <string name="stat_bookings">ಬುಕಿಂಗ್‌ಗಳು</string>
+    <string name="stat_challenges">ಸವಾಲುಗಳು</string>
+    <string name="stat_matches">ಪಂದ್ಯಗಳು</string>
+    <string name="popular_sports">ಜನಪ್ರಿಯ ಕ್ರೀಡೆಗಳು</string>
+    <string name="sport_cricket">ಕ್ರಿಕೆಟ್</string>
+    <string name="sport_volleyball">ವಾಲಿಬಾಲ್</string>
+    <string name="sport_kabaddi">ಕಬಡ್ಡಿ</string>
+    <string name="recent_activity">ಇತ್ತೀಚಿನ ಚಟುವಟಿಕೆ</string>
+
+    <!-- Calendar / Booking Screen -->
+    <string name="ground_booking">ಮೈದಾನ ಬುಕಿಂಗ್</string>
+    <string name="booking_subtitle">ನಿಮ್ಮ ಸ್ಲಾಟ್ ಬುಕ್ ಮಾಡಿ!</string>
+    <string name="slot_available">ಲಭ್ಯವಿದೆ</string>
+    <string name="slot_booked">ಬುಕ್ ಆಗಿದೆ</string>
+    <string name="slot_selected">ಆಯ್ಕೆ ಮಾಡಲಾಗಿದೆ</string>
+    <string name="book_this_slot">ಈ ಸ್ಲಾಟ್ ಬುಕ್ ಮಾಡಿ</string>
+    <string name="confirm_booking">ಬುಕಿಂಗ್ ದೃಢೀಕರಿಸಿ</string>
+    <string name="slot_label">ಸ್ಲಾಟ್</string>
+    <string name="date_label">ದಿನಾಂಕ</string>
+    <string name="your_name">ನಿಮ್ಮ ಹೆಸರು</string>
+    <string name="team_name">ತಂಡದ ಹೆಸರು</string>
+    <string name="confirm">ದೃಢೀಕರಿಸಿ</string>
+    <string name="cancel">ರದ್ದುಮಾಡಿ</string>
+    <string name="book_ground">ಮೈದಾನ ಕಾಯ್ದಿರಿಸಿ</string>
+
+    <!-- Challenge Board -->
+    <string name="challenge_board">ಸವಾಲು ಬೋರ್ಡ್</string>
+    <string name="challenge_subtitle">ಸವಾಲುಗಳನ್ನು ಹಾಕಿ ಅಥವಾ ಸ್ವೀಕರಿಸಿ</string>
+    <string name="post_challenge">ಸವಾಲು ಹಾಕಿ</string>
+    <string name="post_new_challenge">ಹೊಸ ಸವಾಲು ಹಾಕಿ</string>
+    <string name="accept_challenge">ಒಪ್ಪಿಕೊಳ್ಳಿ</string>
+    <string name="no_challenges">ಇನ್ನೂ ಸವಾಲುಗಳಿಲ್ಲ</string>
+    <string name="be_first_challenge">ಮೊದಲ ಸವಾಲು ಹಾಕುವವರು ನೀವಾಗಿ!</string>
+    <string name="select_sport">ಕ್ರೀಡೆ ಆಯ್ಕೆಮಾಡಿ</string>
+    <string name="match_date_hint">ಪಂದ್ಯದ ದಿನಾಂಕ (YYYY-MM-DD)</string>
+    <string name="time_preference">ಸಮಯ ಆದ್ಯತೆ</string>
+    <string name="challenge_message">ಸವಾಲು ಸಂದೇಶ</string>
+
+    <!-- Score Wall -->
+    <string name="score_wall">ಸ್ಕೋರ್ ಗೋಡೆ</string>
+    <string name="score_subtitle">ಪಂದ್ಯ ಫಲಿತಾಂಶಗಳು</string>
+    <string name="add_score">ಸ್ಕೋರ್ ಸೇರಿಸಿ</string>
+    <string name="add_match_result">ಪಂದ್ಯ ಫಲಿತಾಂಶ ಸೇರಿಸಿ</string>
+    <string name="team_1_name">ತಂಡ 1 ಹೆಸರು</string>
+    <string name="team_1_score">ತಂಡ 1 ಸ್ಕೋರ್</string>
+    <string name="team_2_name">ತಂಡ 2 ಹೆಸರು</string>
+    <string name="team_2_score">ತಂಡ 2 ಸ್ಕೋರ್</string>
+    <string name="winner_name">ವಿಜೇತ ಹೆಸರು</string>
+    <string name="no_matches">ಇನ್ನೂ ಪಂದ್ಯ ಫಲಿತಾಂಶಗಳಿಲ್ಲ</string>
+
+    <!-- AI Assistant -->
+    <string name="ai_assistant_title">AI ಸಹಾಯಕ</string>
+    <string name="ai_subtitle">Gemini AI ಮೂಲಕ ಚಾಲಿತ</string>
+    <string name="ask_placeholder">ಕ್ರೀಡಾ ವೇಳಾಪಟ್ಟಿ ಬಗ್ಗೆ ಕೇಳಿ…</string>
+    <string name="send">ಕಳುಹಿಸಿ</string>
+    <string name="thinking">ಯೋಚಿಸುತ್ತಿದೆ…</string>
+    <string name="smart_suggestions">ಸ್ಮಾರ್ಟ್ ಸಲಹೆಗಳು</string>
+    <string name="chat_assistant">ಚಾಟ್ ಸಹಾಯಕ</string>
+
+    <!-- General -->
+    <string name="language_toggle">Switch to English</string>
+</resources>

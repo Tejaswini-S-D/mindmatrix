@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App -->
+    <string name="app_name">Kreeda-Ankana</string>
+    <string name="tagline">Your Smart Village Sports Hub 🏟️</string>
+
+    <!-- Bottom Navigation Tabs -->
+    <string name="tab_home">Home</string>
+    <string name="tab_calendar">Booking</string>
+    <string name="tab_challenges">Challenges</string>
+    <string name="tab_score_wall">Scores</string>
+    <string name="tab_ai_assistant">AI Chat</string>
+
+    <!-- Home Screen -->
+    <string name="todays_overview">Today\'s Overview</string>
+    <string name="stat_bookings">Bookings</string>
+    <string name="stat_challenges">Challenges</string>
+    <string name="stat_matches">Matches</string>
+    <string name="popular_sports">Popular Sports</string>
+    <string name="sport_cricket">Cricket</string>
+    <string name="sport_volleyball">Volleyball</string>
+    <string name="sport_kabaddi">Kabaddi</string>
+    <string name="recent_activity">Recent Activity</string>
+
+    <!-- Calendar / Booking Screen -->
+    <string name="ground_booking">Ground Booking</string>
+    <string name="booking_subtitle">Book your slot, own the ground!</string>
+    <string name="slot_available">Available</string>
+    <string name="slot_booked">Booked</string>
+    <string name="slot_selected">Selected</string>
+    <string name="book_this_slot">Book This Slot</string>
+    <string name="confirm_booking">Confirm Booking</string>
+    <string name="slot_label">Slot</string>
+    <string name="date_label">Date</string>
+    <string name="your_name">Your Name</string>
+    <string name="team_name">Team Name</string>
+    <string name="confirm">Confirm</string>
+    <string name="cancel">Cancel</string>
+    <string name="book_ground">Book Ground</string>
+
+    <!-- Challenge Board -->
+    <string name="challenge_board">Challenge Board</string>
+    <string name="challenge_subtitle">Post or accept match challenges</string>
+    <string name="post_challenge">Post Challenge</string>
+    <string name="post_new_challenge">Post New Challenge</string>
+    <string name="accept_challenge">Accept</string>
+    <string name="no_challenges">No open challenges yet</string>
+    <string name="be_first_challenge">Be the first to throw down a challenge!</string>
+    <string name="select_sport">Select Sport</string>
+    <string name="match_date_hint">Match Date (YYYY-MM-DD)</string>
+    <string name="time_preference">Time Preference</string>
+    <string name="challenge_message">Challenge Message</string>
+
+    <!-- Score Wall -->
+    <string name="score_wall">Score Wall</string>
+    <string name="score_subtitle">Match results &amp; scoreboards</string>
+    <string name="add_score">Add Score</string>
+    <string name="add_match_result">Add Match Result</string>
+    <string name="team_1_name">Team 1 Name</string>
+    <string name="team_1_score">Team 1 Score</string>
+    <string name="team_2_name">Team 2 Name</string>
+    <string name="team_2_score">Team 2 Score</string>
+    <string name="winner_name">Winner Name</string>
+    <string name="no_matches">No match results yet</string>
+
+    <!-- AI Assistant -->
+    <string name="ai_assistant_title">AI Assistant</string>
+    <string name="ai_subtitle">Powered by Gemini AI</string>
+    <string name="ask_placeholder">Ask about sports scheduling…</string>
+    <string name="send">Send</string>
+    <string name="thinking">Thinking…</string>
+    <string name="smart_suggestions">Smart Suggestions</string>
+    <string name="chat_assistant">Chat Assistant</string>
+
+    <!-- General -->
+    <string name="language_toggle">Switch to Kannada</string>
+</resources>
